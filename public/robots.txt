@@ -1,0 +1,4 @@
+Sitemap: https://www.flwconnect.org/sitemap.xml
+
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *

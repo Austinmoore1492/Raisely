@@ -1,2 +1,0 @@
-# Raisely
-Created with CodeSandbox
