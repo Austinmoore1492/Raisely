@@ -1,5 +1,5 @@
 {
-  "name": "flwconnected-landingpage",
+  "name": "Raisely Questions",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -21,23 +21,11 @@
     "extends": "react-app"
   },
   "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
+    "production": [">0.2%", "not dead", "not op_mini all"],
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "keywords": [
-    "Fort Leonard Wood",
-    "Fort Wood",
-    "FLW",
-    "Pulaski",
-    "Connect"
-  ],
-  "description": "FLW Connected Landing Page. Make sure you sign up for the email to get notified about when the site goes live."
+  }
 }
